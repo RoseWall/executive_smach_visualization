@@ -60,7 +60,7 @@ and the node's path will be shown in the bottom status bar.
 ![alt text](rqt_smach_3_hover.png)
 
 When you click on a node, that node will be selected which means the  
-border color will change until you select a different node, and it's  
+node color will change until you select a different node, and it's  
 user data (if any) will be shown in the right hand box.   
 
 ![alt text](/rqt_smach_4_click.png)
@@ -69,7 +69,7 @@ Once a node is selected, you can set it as the initial state of a
 server by using the button in the lower right corner of the window.  
 Once this change is made, you can see the server label move to point  
 at the new initial state. Initial states are outlined in black rather  
-than red.
+than grey.
 
 ![alt text](/rqt_smach_5_set_initial.png)
 
@@ -97,7 +97,7 @@ However you can disable that feature by deselecting that button.
 
 ![alt text](/rqt_smach_10_nozoom.png)
 
-Rqt_smach also come with a tree view which you can use to view the  
+Rqt_smach also comes with a tree view which you can use to view the  
 state machine structure.  
 
 ![alt text](/rqt_smach_11_tree.png)
